@@ -1,4 +1,4 @@
-# �� Aura Wellness AI - Complete Wellness & Emotion Recognition System
+#  Aura Wellness AI - Complete Wellness & Emotion Recognition System
 
 ## 🎯 **Project Overview**
 
@@ -31,14 +31,14 @@ Aura Wellness AI is a comprehensive wellness application that combines AI-powere
 ## 🏗️ **System Architecture**
 
 ```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Flutter App   │    │   Python Flask  │    │   ML Models     │
-│                 │    │   Backend       │    │                 │
-│ • UI/UX        │◄──►│ • REST API      │◄──►│ • OpenCV        │
-│ • Camera       │    │ • WebSockets    │    │ • HuggingFace   │
-│ • State Mgmt   │    │ • JWT Auth      │    │ • PyTorch       │
-│ • Local Storage│    │ • Data Mgmt     │    │ • Gemini AI     │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
+┌─────────────────┐     ┌─────────────────┐    ┌─────────────────┐
+│   Flutter App   │     │   Python Flask  │    │   ML Models     │
+│                 │     │   Backend       │    │                 │
+│ • UI/UX         │◄──► │ • REST API      │◄──►│ • OpenCV        │
+│ • Camera        │     │ • WebSockets    │    │ • HuggingFace   │
+│ • State Mgmt    │     │ • JWT Auth      │    │ • PyTorch       │
+│ • Local Storag  │     │ • Data Mgmt     │    │ • Gemini AI     │
+└─────────────────┘     └─────────────────┘    └─────────────────┘
 ```
 
 ## 🚀 **Quick Start**
