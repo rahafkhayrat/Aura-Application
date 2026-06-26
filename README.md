@@ -316,7 +316,7 @@ flutter run --debug
 ```
 
 ## 🤝 **Contributing**
-Mohammed Ahmed
+Mohammed Ahmed - 
 Rahaf Khayrat
 
 ### **Development Setup**
